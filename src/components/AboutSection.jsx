@@ -28,17 +28,16 @@ const AboutSection = () => {
           </StyledHide>
         </div>
         <motion.p variants={SubtextAnimations}>
-          I am an aspiring web designer &amp; developer and a tech savy one, I
-          design and develop wireframes for websites and web apps with clean and
-          elegant ui/ux, Mobile friendly and fully responsive design, Stunning
-          animations &amp; transitions and fully functional one using advance
-          tools such as figma/uxpin, react.js, redux, react-router, framer
-          motion, styled components and many more in my development. <br />{" "}
+          I help individuals to expand the scope and grow their business
+          networks to provide more sales to their business through delivering a
+          high quality websites with clean ui &amp; elegant feels.
           <br />
-          <span style={{ color: "white" }}>Tags:</span> Front end developer,
-          React-redux developer, React.js developer, Web designer, Web
-          developer, programmer, coder, developer, ui/ux designer, Potato
-          developer, Mema developer
+          <br />
+          I'm an aspiring web developer &amp; software engineer passionate in
+          creating websites that consist of lovely animations and 3D designs.
+          <br />
+          <br />I used modern &amp; powerful tools such as react, redux,
+          styled-components, node &amp; express.js.
         </motion.p>
         <motion.button variants={SubtextAnimations}>
           <a href="#Contact">Contact Me!</a>

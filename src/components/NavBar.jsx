@@ -4,7 +4,7 @@ import styled from "styled-components";
 const NavBar = () => {
   return (
     <StyledNavBar>
-      <h1 id="logo">IamJunrey</h1>
+      <h1 id="logo">Jry-Dev</h1>
       <ul className="nav-links">
         <li>
           <Link to="/" href="#">
