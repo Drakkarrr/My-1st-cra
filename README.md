@@ -1,5 +1,5 @@
 # Hello World!
 
 ```typescript 
-  console.log('I am an aspiring developer!');
+  console.log('My first ever React practice!');
 ```
