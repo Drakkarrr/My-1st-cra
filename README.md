@@ -1,5 +1,2 @@
 # Hello World!
-
-```typescript 
-  console.log('I am Junrey, an aspiring developer!');
-```
+This is my 1st ever react app wyswyg way back 2020.
